@@ -124,6 +124,7 @@ p {
 .quote {
     background-color: #e5e7eb;
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .main-quote-box {
@@ -137,4 +138,18 @@ p {
     font-style: italic;
     color: #1f2937;
     font-weight: 300;
+}
+
+.secondary-quote-box {
+    display: flex;
+    justify-content:center
+}
+
+#secondary-quote {
+    font-size: 16x;
+    color: #1f2937;
+    font-weight: 300;
+    margin-left: 250px;
+    margin-top: -30px;
+    font-weight: 600;
 }
