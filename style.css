@@ -121,3 +121,20 @@ p {
     color: black;
 }
 
+.quote {
+    background-color: #e5e7eb;
+    padding-top: 50px;
+}
+
+.main-quote-box {
+    display: flex;
+    justify-content: center;
+}
+
+#main-quote {
+    width: 600px;
+    font-size: 26px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: 300;
+}
