@@ -79,4 +79,11 @@ p {
     position: relative;
 }
 
+#hero-button {
+    background-color: #3882F6;
+    border: none;
+    padding: 8px 24px;
+    color: white;
+    border-radius: 8px;
+}
 
