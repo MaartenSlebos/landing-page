@@ -17,6 +17,10 @@ h1 {
     color: #F9FAF8;
 }
 
+h2 {
+    text-align: center;
+}
+
 p {
     font-size: 18px;
     font-weight: 300;
@@ -85,5 +89,35 @@ p {
     padding: 8px 24px;
     color: white;
     border-radius: 8px;
+}
+
+.info {
+    padding-top: 24px;
+    margin-bottom: 24px;
+}
+
+.boxes {
+    margin-top: 36px;
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.box {
+    text-align: center;
+    width: 175px;
+}
+
+.rectangle {
+    width: 175px;
+    height: 175px;
+    background-color: white;
+    outline-color: #3882f6;
+    outline-style: auto;
+    border-radius: 15px;
+}
+
+#black-text {
+    color: black;
 }
 
