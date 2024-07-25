@@ -51,7 +51,7 @@ p {
 .hero {
     display: flex;
     gap: 64;
-    justify-content: space-between;
+    justify-content: center;
     padding-top: 64px;
     background-color:#1F2937;
     padding-bottom: 64px;
@@ -152,4 +152,19 @@ p {
     margin-left: 250px;
     margin-top: -30px;
     font-weight: 600;
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 96px;
+}
+
+.blue-box {
+    width: 800px;
+    height: 150px;
+    background-color: #3882F6;
+    border-radius: 12px;
+
 }
