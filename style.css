@@ -184,4 +184,11 @@ p {
 #blue-box-button-style {
     font-size: medium;
     padding: 4px 24px;
+    background-color: #3882F6;
+    border: solid;
+    padding: 8px 24px;
+    color: white;
+    border-radius: 8px;
+    border-color: #e5e7eb;
+    border-width: 2px;
 }
