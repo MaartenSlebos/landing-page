@@ -35,7 +35,8 @@ p {
 
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 256px;
     background-color: #1F2937;
     align-items: center;
     padding-left: 64px;
