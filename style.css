@@ -162,9 +162,26 @@ p {
 }
 
 .blue-box {
-    width: 800px;
+    display: flex;
+    width: 600px;
     height: 150px;
     background-color: #3882F6;
     border-radius: 12px;
+    align-items: center;
+    padding-left: 96px;
+    justify-content: space-between;
+    padding-right: 96px;
+}
 
+#cta-header {
+    color: white;
+}
+
+#cta-text {
+    font-size: 16px;
+}
+
+#blue-box-button-style {
+    font-size: medium;
+    padding: 4px 24px;
 }
